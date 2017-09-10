@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.dnm_show{
+	margin: 20px auto;
+width: 90%;
+height:400px;
+border: 1px solid #4169E1;
+
+}
+.dnm_show div{
+	position: absolute;
+	top:0;
+	left:0;
+	font-size: 22px;
+	font-weight: 500;
+	line-height: 36px;
+}
+form{
+
+	text-align: center;
+}
+form input{
+	height: 40px;
+	line-height: 40px;
+	width: 400px;
+	border-radius: 5px;
+border: 1px solid #ccc;
+padding-left: 5px;
+
+}
+form button{
+	height: 35px;
+	line-height: 35px;
+	width: 150px;
+	margin: 20px 20px;
+	background: #fff;
+	border-radius: 2px;
+	font-size: 15px;
+
+}
+.s_text{
+	border: 1px solid #F4A460;
+	color: #F4A460;
+}
+.s_empty{
+	border: 1px solid #FF0000;
+	color: #FF0000;
+}
